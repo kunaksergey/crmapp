@@ -1,0 +1,13 @@
+{
+    "require": {
+        "codeception/codeception": "*",
+        "fzaninotto/faker": "*",
+        "yiisoft/yii2-gii": "*",
+        "yiisoft/yii2-debug": "*",
+        "yiisoft/yii2-swiftmailer": "*"
+    },
+     "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+}
